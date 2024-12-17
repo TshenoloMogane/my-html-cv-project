@@ -5,7 +5,7 @@ This project is a single-page CV created with **HTML**.
 ## How to Run the Project
 1. Download the project files or clone this repository:
    ```bash
-   git clone https://github.com/your-username/my-html-cv-project.git
+   git clone https://github.com/TshenoloMogane/my-html-cv-project.git
 2. Open the index.html file in your web browser.
 
 Live Demo:
